@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Felhasználónév bekérése
 read -p "Kérlek, add meg a felhasználónevet: " username
 
